@@ -4,9 +4,39 @@
 
 *Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information*
 
+## Installation
+
+Installation is a process of installing the dependencies required.
+Intialize node package manager and then run the following commands;  
+```script
+npm install
+```  
+
+
+## Usage
+
+ In order to use the application locallaly, Run the following command:  
+```script
+npm start
+```  
+
+
 ### App Screenshot
 
-![Challenge Demo](./Assets/bu)
+Homepage:
+
+![Homepage](./assets/Homepage.png)
+
+Offline Transaction:
+
+![offline](./assets/offlinesavetransaction.png)
+
+Online Upload:
+
+![backonline](./assets/Backonline.png)
+
+Instal app:
+![PWA](./assets/BudgetTrackerpwa.png)
 
 ### App Deployed to Heroku
 
